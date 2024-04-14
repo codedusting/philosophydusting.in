@@ -1,7 +1,7 @@
-import "./globals.css";
 import type { Metadata } from "next";
-import type { ReactNode } from "react";
 import { Montserrat } from "next/font/google";
+import type { ReactNode } from "react";
+import "./globals.css";
 
 const montserrat = Montserrat({ subsets: ["latin"], variable: "--montserrat" });
 

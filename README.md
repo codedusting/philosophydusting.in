@@ -13,6 +13,16 @@ This is a project in progress which I am building in public
 3. Spacing
 4. Atoms -> Molecules -> Organism -> Design System
 
+## Checklist
+
+- [x] Install NextJS + Upgrade it to latest with Tailwindcss
+- [x] Install Storybook for proper design system
+- [ ] Develop a design system using TailwindCSS Docs
+- [ ] Develop figma designs
+- [ ] Integrate the Headless Hashnode API for the blog
+- [ ] Write articles
+- [ ] Profit!!!
+
 ## Video Series
 
 [philosophydusting - build in public](https://www.youtube.com/playlist?list=PLSJT2JkBBWbFbQdfM--dBglwrDhMBOZHe)
